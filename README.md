@@ -1,5 +1,4 @@
 # Misc-Projects<br>
- Misc Personnal Projects<br>
 
 **Unity :**<br>
 _Two Way RSA & AES Encryption<br>
